@@ -49,7 +49,7 @@ This app may contain links to external sites. We are not responsible for the pri
 ## Support
 
 If you have questions about this policy, contact us:
-- Email: `graphixgis@gmail.com`
+- Email: `contact@kryptonlabs.studio`
 
 ## Changes to This Policy
 
