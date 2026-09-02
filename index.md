@@ -2,7 +2,7 @@
 
 Last updated: April 2026
 
-This Privacy Policy describes how the **Cafe Fox** app collects, uses, and protects your information.
+This Privacy Policy describes how apps published by **Krypton Labs Studio** collect, use, and protect your information.
 
 ## Information We Collect
 

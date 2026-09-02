@@ -3,7 +3,7 @@
 If you need help with the app, please use one of these options:
 
 - **Email:** `contact@kryptonlabs.studio`
-- **App name:** Cafe Fox
+- **Publisher:** Krypton Labs Studio
 
 ## What to include
 
